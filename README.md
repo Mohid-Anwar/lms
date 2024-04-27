@@ -1,7 +1,7 @@
 # Learning Management System (LMS)
 
 <p align="center">
-  
+  <img src="https://socialify.git.ci/Mohid-Anwar/lms/image?language=1&name=1&owner=1&theme=Dark" alt="lms" width="640" height="320" />
 </p>
 
 ## Description
